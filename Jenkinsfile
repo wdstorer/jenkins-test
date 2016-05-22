@@ -5,7 +5,7 @@ ls -l
 echo 'main script'
 '''
     postScript = '''
-ls -l
+ls -ltr
 echo 'post script'
 '''
 }

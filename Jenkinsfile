@@ -6,6 +6,6 @@ echo 'main script'
 '''
     postScript = '''
 ls -l
-./hello-world
+echo 'post script'
 '''
 }
